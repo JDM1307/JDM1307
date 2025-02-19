@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JDM1307
-- 👀 I’m interested in software programming...
-- 🌱 I’m currently learning Python, php, javascript...
-<!---
-JDM1307/JDM1307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+//Coreiser-Funcionalidad: Reinicia los servicios de terceros mediante la validacion de archivos existentes o faltantes (Python)
+//Cogesser-Funcionalidad: Gestiona equipos remotos y aplica acciones distintivas por medio de archivos .bat (Python)
+
+*Estos archivos fueron creados para validar practicas de Tecnico en Programacion y diseño de software
